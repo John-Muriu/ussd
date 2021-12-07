@@ -12,7 +12,7 @@ body {
 header {
     height: 160px;
     margin: 0px;
-    background-color: #2ca1e1;
+    background-color: rgba(142, 196, 20, 255);
     padding: 40px;
     color: #fff;
 }
