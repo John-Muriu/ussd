@@ -1,43 +1,51 @@
-body{
+body {
     margin: 0px;
     padding: 0px;
 }
-.container-fluid{
+
+.container-fluid {
     margin: 0px;
     padding: 0px;
     width: 100%;
 }
-header{
+
+header {
     height: 160px;
     margin: 0px;
     background-color: rgb(240, 75, 75);
     padding: 40px;
 }
-header h1{
+
+header h1 {
     margin: 0px;
 }
-header h4{
+
+header h4 {
     color: rgb(92, 91, 91);
 }
-.completeOrder{
+
+.completeOrder {
     display: none;
 }
-.closeicon{
+
+.closeicon {
     font-weight: bold;
     position: absolute;
     top: 15px;
     right: 20px;
     cursor: pointer;
 }
-.closeicon:hover{
+
+.closeicon:hover {
     opacity: 0.5;
 }
-.order-card{
+
+.order-card {
     background-color: antiquewhite;
     margin: 50px;
     border-radius: 10px;
     width: 20%;
-    margin-right:0px;
+    margin-right: 0px;
     margin-top: 30px;
     margin-bottom: 0px;
 }
