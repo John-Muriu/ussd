@@ -2,7 +2,7 @@
 new Vue({
     el: "#root",
     data: {
-        title: "Foodigo Restaurant Dashboard",
+        title: "SWifttdial Restaurant Dashboard",
         orders: [
             { name: "John Muriu", description: "Rice and ugali", address: "Langatta", telephone: "254792616470", open: true },
         ]
