@@ -4,7 +4,7 @@ new Vue({
     data: {
         title: "Foodigo Restaurant Dashboard",
         orders: [
-            { name: "John Muriu", description: "Rice and ugali", address: "langatta", telephone: "254792616470", open: true },
+            { name: "John Muriu", description: "Rice and ugali", address: "Langatta", telephone: "254792616470", open: true },
         ]
     },
     created() {
@@ -35,3 +35,7 @@ new Vue({
         }
     }
 })
+
+
+// 
+// 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
