@@ -1,6 +1,6 @@
 //require modules
 var Pusher = require('pusher')
-var credentials = require('./cred')
+var credentials = require('./cred.js')
 var africastalking = require('africastalking')(credentials.AT)
 var cors = require('cors')
 var bodyParser = require('body-parser')
