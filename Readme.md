@@ -1,4 +1,4 @@
-# Foodigo
+# swifttDial food app
 
 This is a realtime food ordering app using USSD. Realtime in that the user receives requests as soon as it is made to the server via USSD. 
 
